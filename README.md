@@ -1,2 +1,2 @@
 # robotic-arm
-little program that displays a robotic arm using c++ and openGL
+Little program that displays a robotic arm using c++ and openGL
